@@ -1,0 +1,21 @@
+{
+    "profile.mainMenu": "Profil",
+    "profile.menu.changePassword": "Changer le mot de passe",
+    "profile.ChangePasswordPage.title": "Changer le mot de passe",
+    "profile.ChangePasswordPage.notEqualError": "Les mots de passe ne sont pas les mêmes",
+    "profile.ChangePasswordPage.oldPasswordLabel": "Mot de passe actuel",
+    "profile.ChangePasswordPage.newPasswordLabel": "Nouveau mot de passe",
+    "profile.ChangePasswordPage.confirmPasswordLabel": "Confirmer le nouveau mot de passe",
+    "profile.ChangePasswordPage.submitButton": "Soumettre",
+    "profile.menu.myProfile": "Mon profil",
+    "profile.MyProfilePage.title": "Mon profil",
+    "profile.roles": "Rôles assignés",
+    "profile.regions": "Régions attribuées",
+    "profile.districts": "Districts assignés",
+    "profile.userName": "Nom d'utilisateur",
+    "profile.otherNames": "Autres noms",
+    "profile.lastName": "Nom de famille",
+    "profile.email": "E-mail",
+    "profile.phone": "Numéro de téléphone",
+    "profile.language": "Langue de l'interface"
+  }

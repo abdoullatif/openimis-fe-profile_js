@@ -5,11 +5,15 @@ import ProfileToolbarContribution from "./components/ProfileToolbarContribution"
 import ProfileMainMenu from "./components/ProfileMainMenu";
 import ChangePasswordPage from "./components/ChangePasswordPage";
 import messages_en from "./translations/en.json";
+import messages_fr from "./translations/fr.json";
 import MyProfilePage from "./components/MyProfilePage";
 import { reducer } from "./reducer";
 
 const DEFAULT_CONFIG = {
-  translations: [{ key: "en", messages: messages_en }],
+  translations: [
+    { key: "en", messages: messages_en },
+    { key: "fr", messages: messages_fr }
+  ],
   "core.Router": [
     { path: "profile/changePassword", component: ChangePasswordPage },
     { path: "profile/myProfile", component: MyProfilePage },
